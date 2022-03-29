@@ -1,0 +1,21 @@
+                        @charset "UTF-8";
+                    * {
+                        font-family: 'Courier New', Courier, monospace;
+                    }
+                    
+                    main {
+                        background-color: rgba(227, 228, 227, 0.822);
+                        width: 600px;
+                        padding-bottom: 7%;
+                        margin: 22%;
+                        box-shadow: 10px 10px 10px rgba(48, 45, 45, 0.507);
+                        border-radius: 7%;
+                        text-align: justify, center
+                    }
+                    
+                    h1 {
+                        color: rgb(242, 98, 250)
+                    }
+                    
+                    body {
+                        background-image: linear-gradient(to right, rgb(233, 54, 63)

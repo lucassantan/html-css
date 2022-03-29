@@ -1,0 +1,31 @@
+    @charset "UTF-8";
+    /*formatação do menu principal*/
+    
+    nav#menuprincipal ul {
+        list-style: inside;
+        text-transform: uppercase;
+        position: absolute;
+    }
+    
+    nav#menuprincipal li {
+        display: inline-block;
+        padding: 10px;
+        background-color: blanchedalmond;
+        transition: background-color1s;
+    }
+    
+    nav#manu {
+        display: block;
+    }
+    
+    nav#menu h1 {
+        display: none;
+    }
+    
+    nav#menu li {
+        background-color: #606060;
+    }
+    
+    nav#menu a:hover {
+        white
+    }
