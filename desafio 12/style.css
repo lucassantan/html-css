@@ -1,0 +1,55 @@
+            @charset "UTF-8";
+            * {
+                margin: 0px;
+                padding: 1px;
+            }
+            
+            html.body {
+                background-color: darkgreen;
+            }
+            
+            header>h1 {
+                padding-top: 30px;
+                font-variant: small-caps;
+            }
+            
+            section {
+                padding-top: 9vh;
+                padding-bottom: 0vh;
+                line-height: 2em;
+            }
+            
+            section.normal {
+                background-color: rgba(244, 235, 235, 0.875);
+                color: rgb(15, 13, 13);
+            }
+            
+            section#img01 {
+                background-image: url('imagens/background001.jpg');
+                background-position: right center;
+                background-size: cover;
+                padding-bottom: 2px;
+            }
+            
+            section#img02 {
+                background-image: url('imagens/background002.jpg');
+                background-size: cover;
+            }
+            
+            section.imagem>p {
+                background-color: rgba(0, 0, 0, 0.047);
+                width: 400px;
+                text-shadow: 1px 1px 0px black;
+            }
+            
+            section.imagem {
+                background-color: rgb(53, 52, 52);
+                color: white;
+                box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.682);
+                background-attachment: fixed;
+            }
+            
+            section {
+                color: aquamarine;
+            }
+            /*padding top */
