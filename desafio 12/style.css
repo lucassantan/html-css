@@ -43,7 +43,7 @@
             }
             
             section.imagem {
-                background-color: rgb(53, 52, 52);
+                background-color: rgba(0, 0, 0, 0.371));
                 color: white;
                 box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.682);
                 background-attachment: fixed;
